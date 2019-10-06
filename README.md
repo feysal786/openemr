@@ -1,3 +1,2 @@
 # openemr
-
-Good the bad the ugly
+This repo contains customizations done on top of the actual openemr software.
