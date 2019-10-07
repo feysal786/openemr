@@ -7,3 +7,4 @@ To recreate directory structure on your local computer, inside your copy of this
 ```
 xargs mkdir -p < dir-structure.txt
 ```
+.
